@@ -10,3 +10,4 @@ function countLetterA(str) {
 }
 
 module.exports = countLetterA;
+
